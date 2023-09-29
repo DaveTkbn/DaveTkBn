@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, AZURE, AWS**
 
-- 💬 Ask me about **The cloud ☁️☁️ (Kinda literally to)**
+- 💬 Ask me about **"The cloud ☁️☁️ (Kinda literally too)"**
 
 - 📫 How to reach me **davetekeste@gmail.com**
 
