@@ -1,3 +1,5 @@
+<h1 align="center">Greetings 👋🏽👋🏽, I'm Dave.</h1>
+<h3 align="center">A Cloud Enthusiast from Ethiopia!!</h3>
 
 - 🌱 I’m currently learning **React, AZURE, AWS**
 
