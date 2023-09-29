@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **davetekeste@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-https://www.linkedin.com/in/dawitekeste
+<h3 align="left">Connect with me:</https://www.linkedin.com/in/dawitekesteh3>
+
 
 <p align="left">
 </p>
